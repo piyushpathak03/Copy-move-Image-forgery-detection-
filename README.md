@@ -1,1 +1,2 @@
-# Copy-move-Image-forgery-detection-
+# image-forgery-detection
+Using CNN's to detect doctored images
